@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MijailDesigns/chat/static/css/main.bad29df0.css",
+    "main.js": "/MijailDesigns/chat/static/js/main.e356ef5b.js",
+    "index.html": "/MijailDesigns/chat/index.html",
+    "main.bad29df0.css.map": "/MijailDesigns/chat/static/css/main.bad29df0.css.map",
+    "main.e356ef5b.js.map": "/MijailDesigns/chat/static/js/main.e356ef5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad29df0.css",
+    "static/js/main.e356ef5b.js"
+  ]
+}
