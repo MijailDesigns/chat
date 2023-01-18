@@ -114,6 +114,8 @@ input {
   padding: 20px 30px;
   background-color: #4c768d;
   display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
 }
 .send-message > input {
   height: 40px;
@@ -124,6 +126,7 @@ input {
   background-color: white;
   color: #1c2c4c;
   font-size: 1rem;
+  flex-grow: 6;
 }
 .send-message > input:placeholder {
   color: #ddd;
@@ -141,4 +144,42 @@ input {
   border: 1px solid #7cc5d9;
   background-color: #7cc5d9;
   font-weight: 600;
+  flex-grow: 2;
+}
+
+/* Emojis */
+.open {
+  display: block;
+  position: absolute;
+  bottom: 80px;
+}
+.close {
+  display: none;
+}
+.close-emoji{
+  background-color: yellow;
+  position: relative;
+  right: -46%;
+  top: 2px;
+  padding: 2px;
+  background-color: #ffffff00;
+}
+.close-emoji:hover {
+  background-color: #ffffff00;
+}
+.close-emoji i {
+  color: #004DFC;
+}
+.btn-emoji {
+  padding: 0;
+  flex-grow: 1;
+}
+.btn-emoji i {
+  font-size: 24px;
+  padding-left: 0;
+}
+
+.user {
+  font-size: 14px;
+  margin-top: 3px;
 }
