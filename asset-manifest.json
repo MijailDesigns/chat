@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MijailDesigns/chat/static/css/main.bad29df0.css",
-    "main.js": "/MijailDesigns/chat/static/js/main.e356ef5b.js",
-    "index.html": "/MijailDesigns/chat/index.html",
-    "main.bad29df0.css.map": "/MijailDesigns/chat/static/css/main.bad29df0.css.map",
-    "main.e356ef5b.js.map": "/MijailDesigns/chat/static/js/main.e356ef5b.js.map"
+    "main.css": "/chat/static/css/main.bad29df0.css",
+    "main.js": "/chat/static/js/main.03023d88.js",
+    "index.html": "/chat/index.html",
+    "main.bad29df0.css.map": "/chat/static/css/main.bad29df0.css.map",
+    "main.03023d88.js.map": "/chat/static/js/main.03023d88.js.map"
   },
   "entrypoints": [
     "static/css/main.bad29df0.css",
-    "static/js/main.e356ef5b.js"
+    "static/js/main.03023d88.js"
   ]
 }
